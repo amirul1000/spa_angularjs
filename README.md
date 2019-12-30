@@ -58,6 +58,7 @@ modules
 ==============================   
 a specific potion of the page/a page
 AngularJS modules define AngularJS applications.
+
 <div ng-app="myApp" ng-controller="myCtrl">
     HTML
 </div>
@@ -65,7 +66,9 @@ AngularJS modules define AngularJS applications.
 controllers 
 ============================   
 Control the entrire page with a js functiom
-app.controller('myCtrl', function($scope) {
+
+app.controller('myCtrl', function($scope) 
+{
   $scope.firstName= "John";
   $scope.lastName= "Doe";
 });
