@@ -20,6 +20,7 @@ in main app we will have a injected div to show the incoming page
 
 
 Basic of Angular js
+====================
 AngularJS extends HTML attributes with Directives, and binds data to HTML with Expressions.
 in angular js data is 2 way binding
 Two-way Binding
