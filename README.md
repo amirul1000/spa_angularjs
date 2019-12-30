@@ -77,7 +77,7 @@ app.controller('myCtrl', function($scope)
 
 
 
-Youtube Tutorial : https://youtu.be/Nx-Qfskf2W4
+Youtube Tutorial : https://youtu.be/TDUK69Btm-s
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
